@@ -16,5 +16,4 @@ Suggests:
     testthat
 RoxygenNote: 5.0.1
 Remotes:
-  gaborscardi/processx,
   richfitz/redux
